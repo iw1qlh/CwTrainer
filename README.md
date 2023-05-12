@@ -12,6 +12,8 @@ Space between characters: from 3 dots to 3 seconds
 
 # Files
 
+## Source
+
  - CwTrainer.ino
  - CwTrainer.h
 
@@ -23,7 +25,7 @@ Space between characters: from 3 dots to 3 seconds
 
 ![Key connector](docs/Cwt_key_connections.png)
 
-[PCB](cocs/CwTrainer.pdf)
+[PCB](docs/CwTrainer.pdf)
 
 [Bill of materials](docs/BillOfMaterials.txt)
 
