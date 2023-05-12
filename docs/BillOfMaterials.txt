@@ -1,0 +1,41 @@
+Bill Of Materials
+
+
+Resistors
+---------
+R1                  100k                
+R2                  5K6                 
+R3                  3K9                 
+R4                  10                  
+R5                  1K5                 
+R6                  10                  
+
+Capacitors
+----------
+C1                  100n                
+C2                  220u                
+C3                  22n                 
+C4                  47n                 
+C5                  220u                
+
+Integrated Circuits
+-------------------
+1    U1             ARDUINO NANO        
+1    U2             LM386               
+
+Diodes
+------
+1    D1             1N4007              
+
+Miscellaneous
+-------------
+J2                  JACK3.5 stereo CONRAD 705866-62            
+J3                  Button
+J5                  JACK3.5 stereo CONRAD 705866-62             
+J7                  JACK DC 10A CONRAD 735742-62             
+J8                  Switch
+LCD1                LM016L 16x2              
+RV1                 10K                 
+RV2                 10K                 
+RV3                 10K                 
+RV4                 10K                 
